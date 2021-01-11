@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\lenovo\Documents\Programowanie\Java web\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1875017576.index
+\spring-mvc-demo\src
+C:\Users\lenovo\Documents\Programowanie\Java web\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\237508677.index
+\spring-mvc-demo\src
+C:\Users\lenovo\Documents\Programowanie\Java web\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4004758693.index
+\weird-quizzes\src

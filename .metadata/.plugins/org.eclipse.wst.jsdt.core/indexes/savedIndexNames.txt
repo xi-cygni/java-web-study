@@ -1,0 +1,20 @@
+INDEX VERSION 1.4+C:\Users\lenovo\Documents\Projects\Nauka Programowania\Java web\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3393338882.index
+3878483932.index
+1721135896.index
+2407466861.index
+810724033.index
+2653633519.index
+2271882210.index
+3779942405.index
+235717930.index
+669304149.index
+3411603823.index
+779730545.index
+163167757.index
+2203274743.index
+3846048470.index
+1640873151.index
+2329273473.index
+2992893975.index
+513703802.index

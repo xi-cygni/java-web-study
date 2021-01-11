@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<name>Aga</name>
+		<gender>Female</gender>
+		<age>22</age>
+	</user>
+	<user>
+		<name>Wojtek</name>
+		<gender>Male</gender>
+		<age>23</age>
+	</user>
+	<user>
+		<name>Adolf</name>
+		<gender>Male</gender>
+		<age>69</age>
+	</user>
+</users>

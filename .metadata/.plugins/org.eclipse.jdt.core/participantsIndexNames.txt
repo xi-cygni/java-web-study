@@ -1,0 +1,39 @@
+INDEX VERSION 1.131
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2099225183.index
+\Annotations\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3240052623.index
+\JSTLStudy\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3431292869.index
+\Beanss\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1958036043.index
+\JSTLStudy\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3089230606.index
+\Files\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1868921893.index
+\PonyApp\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1844544893.index
+\Forms\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1891657227.index
+\Annotations\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2775214353.index
+\Beanss\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\209315634.index
+\Hello JSP\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\443332751.index
+\Beer Advice\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1194004659.index
+\IntegratedGraphics\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3083752492.index
+\Session\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1801253943.index
+\JSTLStudy\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1399792141.index
+\PonyApp\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1603382636.index
+\IntegratedGraphics\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2127039592.index
+\HomeApp\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1675503048.index
+\Simple\src
+C:\Users\lenovo\Documents\Programowanie\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3404090680.index
+\FileUploadForm\src

@@ -1,0 +1,17 @@
+package com.luv2code.springdemo;
+
+public class CritketCoach implements Coach {
+
+	private FortuneService fortuneService;
+	
+	@Override
+	public String getDailyWorkout() {
+		return "Practice fast bownling for 15 mins";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		return fortuneService.getFortune();
+	}
+
+}

@@ -1,0 +1,4 @@
+1597067192482	Move 'GetRequestProperty.jsp' to 'WebContent'
+1597067447714	Move 'setRequestedProperty.jsp' to 'WebContent'
+1597068125767	Move 'GetProperty.jsp' to 'WEB-INF'
+1597068128587	Move 'GetProperty.jsp' to 'WebContent'

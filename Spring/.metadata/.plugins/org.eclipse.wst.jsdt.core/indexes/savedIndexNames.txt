@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\lenovo\Documents\Programowanie\Java web\Spring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1875017576.index
+237508677.index
+408574031.index
+237508677.index
+3617312122.index

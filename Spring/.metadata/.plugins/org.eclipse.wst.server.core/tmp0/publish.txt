@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Mon Aug 24 11:38:37 CEST 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\lenovo\\Documents\\Programowanie\\Java\ web\\Spring\\weird-quizzes\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\lenovo\\Documents\\Programowanie\\Java\ web\\Spring\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\lenovo\\Documents\\Programowanie\\Java\ web\\Spring\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\lenovo\\Documents\\Programowanie\\Java\ web\\Spring\\weird-quizzes\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE-sources.jar

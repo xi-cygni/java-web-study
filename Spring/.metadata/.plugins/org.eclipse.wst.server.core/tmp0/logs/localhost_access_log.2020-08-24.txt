@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:10:45:00 +0200] "GET /weird-quizzes/ HTTP/1.1" 200 290
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:10:45:01 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 200 825
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:28:44 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 200 837
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:29:02 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 200 837
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:29:03 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 200 837
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:29:30 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 200 1089
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:29:43 +0200] "GET /spring-mvc-demo/WEB-INF/view/student-form.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:29:50 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 500 5237
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:29:51 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 500 5237
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:30:04 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 200 1089
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:30:36 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 200 1089
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:30:51 +0200] "GET /weird-quizzes/user/showProfileForm HTTP/1.1" 200 3821
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:11:35:17 +0200] "POST /ProcessUserForm HTTP/1.1" 404 766

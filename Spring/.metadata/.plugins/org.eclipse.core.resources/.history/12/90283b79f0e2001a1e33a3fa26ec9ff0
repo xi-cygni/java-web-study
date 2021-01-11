@@ -1,0 +1,6 @@
+package com.luvcode.demo2;
+
+public interface Coach {
+
+	public String getDailyWorkout();
+}

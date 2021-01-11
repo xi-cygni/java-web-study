@@ -1,0 +1,17 @@
+package test;
+
+public class Test {
+
+	public static void main(String[] args) {
+     int apples[] = { 1, 2, 3 };
+         
+         for(int apple : apples) {
+             apple += 1;
+         }
+         
+         System.out.println(apples);
+        
+
+	}
+
+}

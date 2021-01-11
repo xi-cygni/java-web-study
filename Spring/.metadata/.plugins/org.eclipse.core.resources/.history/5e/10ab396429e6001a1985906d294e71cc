@@ -1,0 +1,22 @@
+package test;
+
+import java.util.Arrays;
+
+public class Test {
+
+	public static void main(String[] args) {
+     int apples[] = { 1, 2, 3 };
+         
+         for(int apple : apples) {
+             apple = apple + 1;
+         }
+      
+        System.out.println(Arrays.toString(apples));
+        
+        int[] intArray = { 7, 9, 5, 1, 3 };
+        System.out.println(Arrays.toString(intArray));
+        
+         
+	}
+
+}

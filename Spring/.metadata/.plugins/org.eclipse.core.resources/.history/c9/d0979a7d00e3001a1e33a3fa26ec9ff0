@@ -1,0 +1,29 @@
+package com.luvcode.demo2;
+
+public class SwimCoach implements Coach {
+
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String eatYourBananas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getRandomService() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

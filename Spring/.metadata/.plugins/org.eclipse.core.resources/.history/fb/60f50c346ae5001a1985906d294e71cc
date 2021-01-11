@@ -1,0 +1,19 @@
+package com.weirdquizzes;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/user")
+public class UserControler {
+	
+	@RequestMapping("/showLoginForm")
+	public String showLoginForm() {
+		return "login-form";
+	}
+	
+	@RequestMapping("/processLoginForm") 
+	public String processLoginForm() {
+		return "submit-login";
+	}
+}

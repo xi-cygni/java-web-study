@@ -1,0 +1,30 @@
+package com.luvcode.demo2;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class SwimCoach implements Coach {
+	
+	FortuneService fortuneService;
+
+	@Override
+	public String getDailyWorkout() {
+		return "Swim 20 pools!";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		return fortuneService.getFortune();
+	}
+
+	@Override
+	public String eatYourBananas() {
+		return fortuneService.getFortune();
+	}
+	
+	@Override
+	public String getRandomService() {
+		return fortuneService.getFortune();
+	}
+
+}
